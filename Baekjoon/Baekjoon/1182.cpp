@@ -1,7 +1,7 @@
 //부분 수열의 합
 //https://www.acmicpc.net/problem/1182
 
-#include <cstdio>
+/*#include <cstdio>
 #include <algorithm>
 using namespace std;
 
@@ -35,4 +35,4 @@ int main() {
 	if (S == 0) cnt -= 1; //  S가 0 이면 아무것도 더하지않은 경우의 수 빼줌
 	printf("%d", cnt);
 	return 0;
-}
+}*/
