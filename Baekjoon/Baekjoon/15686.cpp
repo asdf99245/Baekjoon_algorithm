@@ -1,7 +1,7 @@
 //치킨 배달
 //https://www.acmicpc.net/problem/15686
 
-#include <cstdio>
+/*#include <cstdio>
 #include <cmath>
 #include <algorithm>
 #include <vector>
@@ -65,4 +65,4 @@ int main() {
 
 	printf("%d", minCityDist);
 	return 0;
-}
+}*/
