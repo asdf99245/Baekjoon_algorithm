@@ -1,7 +1,7 @@
 //암호 만들기
 //https://www.acmicpc.net/problem/1759
 
-#include <iostream>
+/*#include <iostream>
 #include <vector>
 #include <algorithm>
 using namespace std;
@@ -55,4 +55,4 @@ int main() {
 
 	DFS(0, 0, 0, 0);
 	return 0;
-}
+}*/
