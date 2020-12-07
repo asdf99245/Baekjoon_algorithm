@@ -1,7 +1,7 @@
 // Z
 //https://www.acmicpc.net/problem/1074
 
-#include <cstdio>
+/*#include <cstdio>
 #include <cmath>
 using namespace std;
 
@@ -41,4 +41,4 @@ int main() {
 	
 	DFS(0, 0, r, c, n);
 	return 0;
-}
+}*/
