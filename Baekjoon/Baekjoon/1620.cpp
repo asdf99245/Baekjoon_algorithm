@@ -1,7 +1,7 @@
 //나는야 포켓몬 마스터 이다솜
 //https://www.acmicpc.net/problem/1620
 
-#include <iostream>
+/*#include <iostream>
 #include <string>
 #include <map>
 using namespace std;
@@ -37,4 +37,4 @@ int main() {
 
 	}
 	return 0;
-}
+}*/
