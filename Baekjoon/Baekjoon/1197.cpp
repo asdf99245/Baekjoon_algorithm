@@ -1,7 +1,7 @@
 //ÃÖ¼Ò ½ºÆÐ´× Æ®¸®
 //https://www.acmicpc.net/problem/1197
 
-#include <cstdio>
+/*#include <cstdio>
 #include <vector>
 #include <algorithm>
 using namespace std;
@@ -33,7 +33,7 @@ int main() {
 		edge.push_back({ c,{a,b} });
 	}
 
-	sort(edge.begin(), edge.end());
+	sort(edge.begin(), edge.end()); // ÂªÀº
 
 	long long sum = 0;
 	for (i = 0; i < edge.size(); i++) {
@@ -44,4 +44,4 @@ int main() {
 
 	printf("%lld", sum);
 	return 0;
-}
+}*/

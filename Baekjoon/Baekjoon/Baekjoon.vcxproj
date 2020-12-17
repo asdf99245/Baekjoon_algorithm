@@ -144,11 +144,14 @@
     <ClCompile Include="1182.cpp" />
     <ClCompile Include="1197.cpp" />
     <ClCompile Include="1339.cpp" />
+    <ClCompile Include="13549.cpp" />
+    <ClCompile Include="14939.cpp" />
     <ClCompile Include="15684.cpp" />
     <ClCompile Include="15686.cpp" />
     <ClCompile Include="1620.cpp" />
     <ClCompile Include="1759.cpp" />
     <ClCompile Include="1774.cpp" />
+    <ClCompile Include="18870.cpp" />
     <ClCompile Include="2468.cpp" />
     <ClCompile Include="4796.cpp" />
     <ClCompile Include="test.cpp" />
