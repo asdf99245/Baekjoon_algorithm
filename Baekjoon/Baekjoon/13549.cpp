@@ -1,7 +1,7 @@
 //¼û¹Ù²ÀÁú 3
 //https://www.acmicpc.net/problem/13549
 
-#include <cstdio>
+/*#include <cstdio>
 #include <queue>
 #include <algorithm>
 using namespace std;
@@ -42,4 +42,4 @@ int main() {
 	scanf("%d %d", &n, &k);
 	printf("%d", BFS(n, k));
 	return 0;
-}
+}*/
