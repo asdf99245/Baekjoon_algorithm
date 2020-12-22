@@ -1,7 +1,7 @@
 //네트워크 연결
 //https://www.acmicpc.net/problem/1922
 
-#include <cstdio>
+/*#include <cstdio>
 #include <algorithm>
 #include <vector>
 using namespace std;
@@ -51,4 +51,4 @@ int main() {
 
 	printf("%d", minCost);
 	return 0;
-}
+}*/
