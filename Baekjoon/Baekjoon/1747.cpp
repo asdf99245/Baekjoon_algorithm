@@ -1,6 +1,7 @@
 //소수& 팰린드롬
 //acmicpc.net/problem/1747
 
+/*
 #include <cstdio>
 #include <algorithm>
 #include <string>
@@ -47,4 +48,4 @@ int main() {
 		}
 	}
 	return 0;
-}
+}*/
