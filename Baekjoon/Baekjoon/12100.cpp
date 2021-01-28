@@ -1,6 +1,7 @@
 //2048 (Easy)
 //https://www.acmicpc.net/problem/12100
 
+/*
 #include <cstdio>
 #include <algorithm>
 
@@ -194,4 +195,4 @@ int main() {
 
 	printf("%d", maxB);
 	return 0;
-}
+}*/
