@@ -1,6 +1,7 @@
 //Mootube(Silver)
 //https://www.acmicpc.net/problem/15591
 
+/*
 #include <cstdio>
 #include <algorithm>
 #include <vector>
@@ -59,4 +60,4 @@ int main() {
 		printf("%d\n", BFS(v, k));
 	}
 	return 0;
-}
+}*/
