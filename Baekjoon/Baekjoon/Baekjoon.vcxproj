@@ -142,6 +142,7 @@
     <ClCompile Include="1074.cpp" />
     <ClCompile Include="10974.cpp" />
     <ClCompile Include="1107.cpp" />
+    <ClCompile Include="11501.cpp" />
     <ClCompile Include="1167.cpp" />
     <ClCompile Include="1182.cpp" />
     <ClCompile Include="1197.cpp" />
@@ -163,6 +164,7 @@
     <ClCompile Include="1976.cpp" />
     <ClCompile Include="2468.cpp" />
     <ClCompile Include="4796.cpp" />
+    <ClCompile Include="joystick_programmers.cpp" />
     <ClCompile Include="test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
