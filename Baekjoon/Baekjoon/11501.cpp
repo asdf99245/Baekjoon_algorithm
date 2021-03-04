@@ -3,7 +3,7 @@
 /* 계속하여 실패해서 문제가 무엇인지 찾아보니 return 값이 커서 
 int 를 long long 으로 수정하니 맞을수 있었던 문제 */
 
-#include <cstdio>
+/*#include <cstdio>
 #include <algorithm>
 #include <vector>
 using namespace std;
@@ -40,4 +40,4 @@ int main() {
 	}
 
 	return 0;
-}
+}*/
