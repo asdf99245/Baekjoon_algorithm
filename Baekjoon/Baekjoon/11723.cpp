@@ -1,6 +1,7 @@
 //С§Че
 //https://www.acmicpc.net/problem/11723
 
+/*
 #include <iostream>
 #include <string>
 using namespace std;
@@ -50,3 +51,4 @@ int main() {
 
 	return 0;
 }
+*/
