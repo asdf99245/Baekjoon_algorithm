@@ -3,7 +3,7 @@
 //******많이 틀림****** 
 //나중에 다시 풀어봐야할 문제
 
-#include <cstdio>
+/*#include <cstdio>
 #include <algorithm>
 #include <vector>
 using namespace std;
@@ -62,4 +62,4 @@ int main() {
 		printf("%d\n", ans[i].second);
 	
 	return 0;
-}
+}*/

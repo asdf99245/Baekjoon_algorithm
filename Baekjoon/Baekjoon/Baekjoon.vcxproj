@@ -167,6 +167,9 @@
     <ClCompile Include="1976.cpp" />
     <ClCompile Include="2098.cpp" />
     <ClCompile Include="2468.cpp" />
+    <ClCompile Include="2573.cpp" />
+    <ClCompile Include="2616.cpp" />
+    <ClCompile Include="2632.cpp" />
     <ClCompile Include="4796.cpp" />
     <ClCompile Include="joystick_programmers.cpp" />
     <ClCompile Include="test.cpp" />
