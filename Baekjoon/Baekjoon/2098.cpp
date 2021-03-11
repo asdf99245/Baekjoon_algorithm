@@ -2,6 +2,7 @@
 //https://www.acmicpc.net/problem/2098
 //*******************중요******************* 많이 틀린 문제
 
+/*
 #include <cstdio>
 #include <algorithm>
 #include <vector>
@@ -48,4 +49,4 @@ int main() {
 	memset(dp, -1, sizeof(dp));
 	printf("%d", TSP(0, 1));
 	return 0;
-}
+}*/
