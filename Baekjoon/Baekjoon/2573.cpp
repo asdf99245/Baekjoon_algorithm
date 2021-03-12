@@ -1,6 +1,7 @@
 //ºù»ê
 //https://www.acmicpc.net/problem/2573
 
+/*
 #include <cstdio>
 #include <algorithm>
 #include <queue>
@@ -107,3 +108,4 @@ int main() {
 	printf("%d", year);
 	return 0;
 }
+*/
