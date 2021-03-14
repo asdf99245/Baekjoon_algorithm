@@ -1,6 +1,7 @@
 //¾ËÆÄºª
 //https://www.acmicpc.net/problem/1987
 
+/*
 #include <iostream>
 #include <algorithm>
 using namespace std;
@@ -52,3 +53,4 @@ int main() {
 	printf("%d", maxL);
 	return 0;
 }
+*/
