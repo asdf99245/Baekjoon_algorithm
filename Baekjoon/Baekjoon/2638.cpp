@@ -1,6 +1,7 @@
 //치즈
 //https://www.acmicpc.net/problem/2638
 
+/*
 #include <cstdio>
 #include <algorithm>
 #include <queue>
@@ -63,7 +64,7 @@ void contact_air(int s) {
 		x = cheese.front().second;
 		cheese.pop();
 
-		if (melt(y, x)) { //치즈가 녹았다면 녹을 치즈 저장
+		if (melt(y, x)) { //녹을 치즈 저장
 			check.push({ y,x });
 		}
 		else //치즈가 녹지 않았다면 다시 큐에 푸시
@@ -101,3 +102,4 @@ int main() {
 	printf("%d", time);
 	return 0;
 }
+*/
