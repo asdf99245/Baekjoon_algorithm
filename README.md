@@ -1,2 +1,2 @@
-# Baekjoon_algorithm
+# Algorithm Problem Solving
 algorithm practice
