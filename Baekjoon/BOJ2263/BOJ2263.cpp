@@ -9,7 +9,8 @@ using namespace std;
 
 void preorder(vector<int> &inorder, vector<int> &postorder, vector<int> &index , int inLeft , int inRight, int postLeft, int postRight) {
 	if (inLeft > inRight || postLeft > postRight) return; // 왼쪽끝이 오른쪽끝을 넘어서면 종료
-	int root = postorder[postRight]; // 후위 순회의 마지막 값이 루트
+	int root = postorder[postRight];
+	// 후위 순회의 마지막 값이 루트
 	printf("%d ", root); 
 	int rootIndex = index[root]; // 전위순회에서 루트의 인덱스
 
@@ -20,6 +21,7 @@ void preorder(vector<int> &inorder, vector<int> &postorder, vector<int> &index ,
 int main() {
 	int n, i, j;
 	scanf("%d", &n);
+
 
 	vector<int> postorder(n);
 	vector<int> inorder(n);
